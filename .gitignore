@@ -1,0 +1,33 @@
+# =====================
+# Virtual environments
+# =====================
+venv/
+.venv/
+.env/
+
+# =====================
+# Python
+# =====================
+__pycache__/
+*.pyc
+*.pyo
+
+# =====================
+# Jupyter / notebooks
+# =====================
+.ipynb_checkpoints/
+
+# =====================
+# Data / modelos (opcional)
+# =====================
+data/
+datasets/
+checkpoints/
+models/*.pth
+models/*.pt
+
+# =====================
+# IDEs
+# =====================
+.vscode/
+.idea/
